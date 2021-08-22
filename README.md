@@ -1,15 +1,4 @@
-# Testing components with Testing library
+# Gerenciador de Esferas do Dragon BallZ utilizando ReactJS
 
-This is a simple project to study about testing components using [Testing Library](https://testing-library.com/)
-
-clone this repository
-
-```
-  yarn
-  yarn start
-```
-
-to run tests
-```
-  yarn test
-```
+Projeto desenvolvido durante o bootcamp Impulso Fullstack Developer.
+Gerenciador de esferas do Dragon BallZ desenvolvido em ReactJS, implementando testes com Jest, React Testing Library e Cypress
